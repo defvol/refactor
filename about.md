@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca
+permalink: /acerca/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+En temas de Gobierno Abierto y Digital hay mucha retórica pero poca implementación.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Aquí platicamos de cómo hacer hacking cívico desde dentro de gobierno.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Si quieres proponer contenido ve a [github.com/rodowi/refactor](https://github.com/rodowi/refactor).
