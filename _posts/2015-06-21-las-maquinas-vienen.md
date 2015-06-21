@@ -32,6 +32,8 @@ Esta experiencia (y alergia a la repetición) me ha llevado a diseñar una serie
 
 Esto es sólo el comienzo...
 
+---
+
 Si quieres seguir el avance de los proyectos (o contribuir), revisa [github.com/mxabierto](https://github.com/mxabierto) y [github.com/rodowi](https://github.com/rodowi), así como las ligas en este artículo (ojo: algunas ligas no funcionan dado que algunos blog posts están por escribirse).
 
 Y si no me crees, ve el video [_Humans Not Need Apply_](https://twitter.com/rodowi/status/543449229583060992).

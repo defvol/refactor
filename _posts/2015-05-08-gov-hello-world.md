@@ -39,6 +39,8 @@ tecnológico.
 
 En [el siguiente artículo]({{site.basurl}}/por-que-estamos-aqui) describiremos a más detalle la razón de esto.
 
+---
+
 *Sobre el lenguaje*
 
 El blog está en español porque está dirigido a una audiencia en América Latina, sin embargo se mantienen términos en inglés, ya que [este último se ha vuelto el lenguaje estándar en la Web](http://www.catb.org/esr/faqs/hacker-howto.html#skills4) y en particular en la industria de tecnología. Linus Torvalds, originario de Finlandia, no hubiera podido crear una comunidad internacional de *open source* escribiendo en finés.

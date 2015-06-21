@@ -34,6 +34,8 @@ Por último, decidí nombrar este blog como REFACTOR, derivado de un término en
 
 Veamos que tal nos va. Refactorizar el gobierno será un buen viaje.
 
+---
+
 Sobre el título: *echo*(eco) es un comando de sistemas operativos *NIX cuya función es simplemente imprimir un mensaje. Lo relevante es que generalmente es el primer punto de contacto con el sistema, y más aún, utilizar la línea de comandos refleja nuestra capacidad de aprovechar la computación para el fin que decidamos.
 
 1. (115000000 * (.01/100))
