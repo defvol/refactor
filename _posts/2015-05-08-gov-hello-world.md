@@ -2,7 +2,7 @@
 layout: post
 title:  "gov.hello_world()"
 date:   2015-05-08 10:14:34
-categories: artículo
+categories: articulo
 ---
 ### gov.hello_world()
 

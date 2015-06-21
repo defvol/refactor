@@ -2,7 +2,7 @@
 layout: post
 title:  "% echo '¿Por qué estamos aquí?'"
 date:   2015-05-11 12:14:34
-categories: artículo
+categories: articulo
 ---
 
 Hace unos años participé en [una manifestación digital](http://blog.codeandomexico.org/2015/03/19/app-rebelde-cambio-raiz/), un tanto diferente a las que comúnmente conocemos que funcionan de manera unidireccional. No fueron tuits de coraje, ni tampoco un artículo en un blog. Lo que hicimos fue sumar a la comunidad de software en un ejercicio (y experimento) para protestar construyendo. El [_TL;DR_](http://www.urbandictionary.com/define.php?term=TLDR) de este caso se resume como una convocatoria para crear en una semana, un clon libre y de código abierto de un proyecto que el Congreso de México iba a comprar por $115,000,000 MXN. El anuncio despertó el interés de una naciente comunidad de [hackers cívicos](http://blog.codeandomexico.org/2014/12/09/como-ser-hacker-civico/) decidida a crear nuevas soluciones abiertas a viejos problemas cerrados. El experimento hizo algo de ruido, al grado que el congreso nos invitó a presentarles estos artilugios realizados en una semana con 0.01% del presupuesto original (1); para que al final aplaudieran sin entender lo que había pasado, y que el contrato siguiera su marcha; un buen gesto sin duda, pero al menos se hicieron evidente dos grandes oportunidades:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Las máquinas automatizarán la burocracia"
 date:   2015-06-21 15:18:06
-categories: artículo
+categories: articulo
 ---
 Después de 2 años de ser testigo, juez, y parte de la implementación de una (y otras) política(s) en el gobierno federal, he notado que gran parte de mi trabajo (y el de otros) se puede redactar y automatizar con un par de simples algoritmos.
 
