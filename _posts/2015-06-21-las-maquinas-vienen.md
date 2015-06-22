@@ -18,7 +18,7 @@ Pero...
 
 [How to be Lazy, Dumb, and Successful](http://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/).
 
-Esta experiencia (y alergia a la repetición) me ha llevado a diseñar una serie de proyectos que automatizarán tareas que actualmente hace el gobierno y algunas otras actividades que nunca realizará. A continuación platico un par de estos proyectos:
+Esta experiencia (y alergia a la repetición) me ha llevado a diseñar con varios equipos, una serie de proyectos que automatizarán tareas que actualmente hace el gobierno y algunas otras actividades que nunca realizará. A continuación platico un par de estos proyectos:
 
 1. Todo empezo en 2014 con [ADELA](#adela), que da seguimiento a la Iniciativa de Datos Abiertos. Se asegura de que las dependencias del gobierno federal abran sus datos con los mejores estándares y en los tiempos acordados, llevándolos paso a paso por el proceso. También les hace recordatorios, y los califica. Imagina los cientos de correos, llamadas, y juntas de seguimiento que nos ahorramos.
 
