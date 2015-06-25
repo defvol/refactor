@@ -26,7 +26,7 @@ Esta experiencia (y alergia a la repetición) me ha llevado a diseñar con vario
 
 3. Hablando de huracanes, interpretar la información puede ser críptico para cualquier ciudadano no experto en meteorología. [NOE](#noe) es el primer centro de huracanes web. En una sóla página te presenta toda la información de ciclones con un mapa en tiempo real.
 
-4. Una de las tareas que más tiempo nos consume es asegurar que los datos abiertos que publica el gobierno esten en buena forma. [VALI](#vali) sabe más de formatos y estándares abiertos que cualquier hacker cívico. Ella se encarga de revisar las publicaciones en [datos.gob.mx](http://datos.gob.mx) y validar una serie de condiciones de calidad necesarias para ofrecer un mejor servicio a los ciudadanos. También asesora al funcionario mostrándole videos y manuales específicos para realizar las mejoras que requiere su publicación.
+4. Una de las tareas que más tiempo nos consume es asegurar que los datos abiertos que publica el gobierno esten en buena forma. [VAL 5000](#val5000) sabe más de formatos y estándares abiertos que cualquier hacker cívico. Ella se encarga de revisar las publicaciones en [datos.gob.mx](http://datos.gob.mx) y validar una serie de condiciones de calidad necesarias para ofrecer un mejor servicio a los ciudadanos. También asesora al funcionario mostrándole videos y manuales específicos para realizar las mejoras que requiere su publicación.
 
 5. A todos nos queda claro que interactuar con gobierno es tortuoso. Desde buscar información para becas hasta tramitar el acta de nacimiento resulta en un laberinto de información. [SARA](#sara) contesta todas tus dudas y te guía para que encuentres todo lo que necesites. En un futuro, por qué no, te resolverá tus trámites.
 
