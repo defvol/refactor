@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Las máquinas automatizarán la burocracia"
+title:  "Las máquinas automatizarán el gobierno"
 date:   2015-06-21 15:18:06
 categories: articulo
 ---
