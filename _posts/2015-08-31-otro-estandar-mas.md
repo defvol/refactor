@@ -5,8 +5,6 @@ date:   2015-08-31 23:05:00
 categories: articulo
 ---
 
-El estándar para el estándar
-
 No creo que necesitemos otro estándar de datos.
 
 Más bien, creo que debemos aterrizar de esa nube pseudo-académica e intelectual de expertos, y entender que no es tan fácil ni tan realista implementar esas ideas de aquellos astronautas trabajando en organismos internacionales y corporativos. Particularmente cuando hablamos que los que implementan son los gobiernos; aquellos que menos entienden lo qué es un estándar.
