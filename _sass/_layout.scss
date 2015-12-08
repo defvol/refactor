@@ -183,7 +183,9 @@
     color: $grey-color;
 }
 
-.post-link {
+.post-link, .post-link:visited {
+    color: #333;
+    font-weight: bold;
     display: block;
     font-size: 24px;
 }
